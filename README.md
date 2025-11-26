@@ -1,2 +1,2 @@
 # APPLd_paper
-Repository for scripts associated with APPLd manuscript.
+Repository for files and scripts associated with APPLd manuscript.
